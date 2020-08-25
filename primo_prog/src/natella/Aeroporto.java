@@ -66,6 +66,7 @@ public class Aeroporto {
 		 malpensa.abilita_decollo (r2);
          
 		 System.out.println("modifica");
+		 System.out.println("modifica numero 2");
 	}
 	
 
