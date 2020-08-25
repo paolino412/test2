@@ -67,7 +67,11 @@ public class Aeroporto {
          
 		 System.out.println("modifica");
 		 System.out.println("modifica numero 2");
-		 System.out.println("modifica locale");
+ 
+		 System.out.println("modifica locale e remota");
+ 
+		  
+   
 	}
 	
 
