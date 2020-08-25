@@ -70,8 +70,14 @@ public class Aeroporto {
  
 		 System.out.println("modifica locale e remota");
  
+ 
 		   System.out.println("modifica master");
    
+ 
+ 
+		 System.out.println("modifica sul nuovo");
+   
+ 
 	}
 	
 
