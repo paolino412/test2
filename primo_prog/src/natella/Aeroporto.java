@@ -64,7 +64,8 @@ public class Aeroporto {
 		 Velivolo r2 = new Velivolo();
 		 Jet j2 = new Jet();
 		 malpensa.abilita_decollo (r2);
-
+         
+		 System.out.println("modifica");
 	}
 	
 
